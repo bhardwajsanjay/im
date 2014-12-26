@@ -11,5 +11,6 @@
   	<module>in.co.itasca.im.api</module>
   	<module>in.co.itasca.im.ui</module>
   	<module>in.co.itasca.im.jaas</module>
+  	<module>in.co.itasca.im.persistence.hibernate</module>
   </modules>
 </project>
