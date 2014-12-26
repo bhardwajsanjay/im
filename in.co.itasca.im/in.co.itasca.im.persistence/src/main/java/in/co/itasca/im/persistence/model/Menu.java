@@ -21,8 +21,15 @@ public class Menu implements Serializable {
 
 	private String menuLabel;
 	private String menuName;
-
+	private Boolean hasSubMenu;
 	
+	public Boolean getHasSubMenu() {
+		return hasSubMenu;
+	}
+	public void setHasSubMenu(Boolean hasSubMenu) {
+		this.hasSubMenu = hasSubMenu;
+	}
+
 	private static final long serialVersionUID = 1L;
 
 	public Menu() {
