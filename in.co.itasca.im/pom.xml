@@ -5,4 +5,5 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>Inventory Management</name>
   <description>Inventory Management System for IT</description>
+  <packaging>pom</packaging>
 </project>
