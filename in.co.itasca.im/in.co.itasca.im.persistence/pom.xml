@@ -9,4 +9,22 @@
   <artifactId>in.co.itasca.im.persistence</artifactId>
   <name>persistence</name>
   <description>Inventory Management Persistence</description>
+  <dependencies>
+     <dependency>
+    	<groupId>org.eclipse.persistence</groupId>
+    	<artifactId>javax.persistence</artifactId>
+    	<version>2.0.5</version>
+    </dependency>
+    <dependency>
+    	<groupId>org.eclipse.persistence</groupId>
+    	<artifactId>eclipselink</artifactId>
+    	<version>2.5.0</version>
+    </dependency>
+    <dependency>
+    	<groupId>mysql</groupId>
+    	<artifactId>mysql-connector-java</artifactId>
+    	<version>5.1.33</version>
+    </dependency>
+ 
+  </dependencies>
 </project>

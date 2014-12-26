@@ -13,4 +13,21 @@
   	<module>in.co.itasca.im.jaas</module>
   	<module>in.co.itasca.im.persistence.hibernate</module>
   </modules>
+  <dependencies>
+  <dependency>
+  		<groupId>junit</groupId>
+  		<artifactId>junit</artifactId>
+  		<version>4.12-beta-2</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>org.slf4j</groupId>
+  		<artifactId>slf4j-api</artifactId>
+  		<version>1.7.7</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>org.slf4j</groupId>
+  		<artifactId>slf4j-simple</artifactId>
+  		<version>1.7.7</version>
+  	</dependency>
+  </dependencies>
 </project>
