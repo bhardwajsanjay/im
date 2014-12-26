@@ -6,4 +6,10 @@
   <name>Inventory Management</name>
   <description>Inventory Management System for IT</description>
   <packaging>pom</packaging>
+  <modules>
+  	<module>in.co.itasca.im.persistence</module>
+  	<module>in.co.itasca.im.api</module>
+  	<module>in.co.itasca.im.ui</module>
+  	<module>in.co.itasca.im.jaas</module>
+  </modules>
 </project>
