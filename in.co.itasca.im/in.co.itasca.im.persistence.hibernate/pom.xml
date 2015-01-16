@@ -9,4 +9,11 @@
   <artifactId>in.co.itasca.im.persistence.hibernate</artifactId>
   <name>Hibernate Persistence</name>
   <description>Inventory Management System Hibernate Persistence</description>
+  <dependencies>
+  	<dependency>
+  		<groupId>org.hibernate</groupId>
+  		<artifactId>hibernate-core</artifactId>
+  		<version>4.0.0.Final</version>
+  	</dependency>
+  </dependencies>
 </project>

@@ -3,6 +3,9 @@
 
 package au.com.redbackconsulting.moc.odata.api;
 
+import in.co.itasca.im.persistence.CaSystemsDAO;
+import in.co.itasca.im.persistence.model.CaSystems;
+
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.HashMap;
@@ -11,9 +14,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.TimeZone;
  
-import au.com.redbackconsulting.moc.persistence.CaSystemsDAO;
-import au.com.redbackconsulting.moc.persistence.model.CaSystems;
-public class DataStore {
+ public class DataStore {
 	
 	//Data accessors
 	  public Map<String, Object> getCar(int id) {

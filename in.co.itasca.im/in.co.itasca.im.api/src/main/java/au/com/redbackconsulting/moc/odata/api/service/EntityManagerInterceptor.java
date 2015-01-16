@@ -1,6 +1,8 @@
 
 package au.com.redbackconsulting.moc.odata.api.service;
 
+import in.co.itasca.im.persistence.manager.PersistenceManager;
+
 import java.io.IOException;
 
 import javax.servlet.Filter;
@@ -10,8 +12,7 @@ import javax.servlet.ServletException;
 import javax.servlet.ServletRequest;
 import javax.servlet.ServletResponse;
 
-import au.com.redbackconsulting.moc.persistence.manager.PersistenceManager;
-
+ 
  
 
 public class EntityManagerInterceptor implements Filter {
