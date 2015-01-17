@@ -1,4 +1,4 @@
-package au.com.redbackconsulting.moc.odata.api;
+package in.co.itasca.im.api;
 
 import java.net.URI;
 import java.util.ArrayList;

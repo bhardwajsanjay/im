@@ -1,4 +1,4 @@
-package au.com.redbackconsulting.moc.odata.api.edmconstants;
+package in.co.itasca.im.api.edmconstants;
 
 import java.util.ArrayList;
 import java.util.List;

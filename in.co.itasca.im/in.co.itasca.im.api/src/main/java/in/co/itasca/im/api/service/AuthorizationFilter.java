@@ -1,4 +1,4 @@
-package au.com.redbackconsulting.moc.odata.api.service;
+package in.co.itasca.im.api.service;
 
 import java.io.IOException;
 

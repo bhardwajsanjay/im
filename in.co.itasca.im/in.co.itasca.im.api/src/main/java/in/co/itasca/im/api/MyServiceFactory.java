@@ -1,4 +1,4 @@
-package au.com.redbackconsulting.moc.odata.api;
+package in.co.itasca.im.api;
 
 import org.apache.olingo.odata2.api.ODataService;
 import org.apache.olingo.odata2.api.ODataServiceFactory;

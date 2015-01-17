@@ -1,5 +1,5 @@
 
-package au.com.redbackconsulting.moc.odata.api.service;
+package in.co.itasca.im.api.service;
 
 import in.co.itasca.im.persistence.manager.PersistenceManager;
 
